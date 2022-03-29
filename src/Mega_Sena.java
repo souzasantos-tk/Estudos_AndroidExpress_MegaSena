@@ -23,7 +23,6 @@ public class Mega_Sena {
             //  int number = generate.nextInt(60);
             //         System.out.println(number);
             // }  gerando a saida do looping.
-
         }
     }
 }
